@@ -72,4 +72,4 @@ cl34.write(dt['petalwidth'].min())
 
 st.write("Line_Chart")
 cc=[3,8,1,10]
-st.line_chart(cc)
+st.line_chart(cc)fjghf
