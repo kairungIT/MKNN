@@ -28,7 +28,8 @@ html_7 = """
 </div>
 """
 st.markdown(html_7, unsafe_allow_html=True)
-
+st.markdown("")
+st.markdown("")
 
 dt = pd.read_csv("./data/iris-3.csv")
 st.write(dt.head(10))
