@@ -37,6 +37,8 @@ st.subheader("ข้อมูลส่วนสุดท้าย 10 แถว")
 st.write(dt.tail(10))
 
 
+
+
 dt1 = dt['petallength'].sum()
 dt2 = dt['petalwidth'].sum()
 dt3 = dt['sepallength'].sum()
